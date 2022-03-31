@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.75709b4d.css",
+    "main.js": "/memory-game/static/js/main.026977a0.js",
+    "static/media/mcree.png": "/memory-game/static/media/mcree.df056210de9fa265c86e.png",
+    "static/media/torb.png": "/memory-game/static/media/torb.f4dbf72a1ef643b53e94.png",
+    "static/media/widow.png": "/memory-game/static/media/widow.2efdf65e96848b8cbbed.png",
+    "static/media/dva.png": "/memory-game/static/media/dva.6ca98805f13fbba0d88d.png",
+    "static/media/moira.png": "/memory-game/static/media/moira.c2404ed39f88bd2b882f.png",
+    "static/media/tracer.png": "/memory-game/static/media/tracer.3fe3a239c7ee45bcbf85.png",
+    "static/media/overwatchlogo.png": "/memory-game/static/media/overwatchlogo.03b8ffbdbe574ecdcbbd.png",
+    "static/media/roadhog.png": "/memory-game/static/media/roadhog.748ca22ec17aad8878b9.png",
+    "static/media/lucio.png": "/memory-game/static/media/lucio.95aab9bc55913b3e49f0.png",
+    "static/media/junkrat.png": "/memory-game/static/media/junkrat.4b0ece3c8bc0ef64effd.png",
+    "static/media/soldier.png": "/memory-game/static/media/soldier.c3675ea1ee41fe23d38b.png",
+    "static/media/reaper.png": "/memory-game/static/media/reaper.01592b2b9f39b3ee7af1.png",
+    "static/media/bastion.png": "/memory-game/static/media/bastion.85d8aa6f18628bd31abc.png",
+    "static/media/sombra.png": "/memory-game/static/media/sombra.b0561fc1cd66d845a1a7.png",
+    "static/media/rein.png": "/memory-game/static/media/rein.80db79ddfeb8be7f2d2e.png",
+    "static/media/brig.png": "/memory-game/static/media/brig.4ba7d9be4f55c3934a9c.png",
+    "static/media/orisa.png": "/memory-game/static/media/orisa.5cbcf2f948db57019758.png",
+    "index.html": "/memory-game/index.html",
+    "main.75709b4d.css.map": "/memory-game/static/css/main.75709b4d.css.map",
+    "main.026977a0.js.map": "/memory-game/static/js/main.026977a0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75709b4d.css",
+    "static/js/main.026977a0.js"
+  ]
+}
