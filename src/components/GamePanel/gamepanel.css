@@ -1,0 +1,7 @@
+.game-container {
+    display: grid;
+    grid-template-columns: 135px 135px 135px 135px ;
+    grid-template-rows: 150px 150px 150px 150px;
+    justify-content: center;
+    align-items: center;
+}

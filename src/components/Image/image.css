@@ -1,0 +1,16 @@
+.image {
+    width: 8rem;
+    height: 9rem;
+    cursor: pointer;
+    transition: 1s;
+    border: 0.2rem solid black;
+    padding: 1.5rem;
+    border-radius: 1rem;
+    background: rgba(255,255,255,0.6 );
+    
+}
+
+.image:hover {
+    transform: scale(1.1,1.1);
+}
+

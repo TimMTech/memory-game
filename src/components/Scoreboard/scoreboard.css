@@ -1,0 +1,13 @@
+.score-container {
+    font-size: 1.2rem;
+    display: flex;
+    gap: 1rem;
+}
+
+.current-score {
+    color: rgb(22, 197, 22);
+}
+
+.best-score {
+    color: rgb(238, 6, 6);
+}
